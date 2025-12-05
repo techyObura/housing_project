@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  /* Primary Colors */
+  --color-blue-primary: #1d4ed8; /* Trust & Reliability */
+  --color-teal-secondary: #10b981; /* Safety & Positivity */
+
+  /* Accent Colors */
+  --color-orange-accent: #f97316; /* Alerts, CTAs */
+  --color-gray-light: #f3f4f6; /* Backgrounds, cards */
+  --color-gray-dark: #374151; /* Text, icons */
+
+  /* Supporting Colors */
+  --color-red-error: #ef4444; /* Errors & Warnings */
+  --color-yellow-highlight: #facc15; /* Highlights */
+}
